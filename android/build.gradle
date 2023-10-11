@@ -23,7 +23,7 @@ apply plugin: 'com.android.library'
 
 android {
     if (project.android.hasProperty("namespace")) {
-        namespace 'com.fluttercandies.flutter_image_compress'
+        namespace 'com.julienvignali.phone_number'
     }
     compileSdkVersion 33
 
